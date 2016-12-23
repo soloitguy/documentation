@@ -54,7 +54,7 @@ There are many ways to use/access git.  There are multiple apps that allow you t
 
 [Git for Visual Studio]('http://visualstudio.com'"Visual-Studio") - Visual Studio provides a plugin that integrates directly into the IDE, however, terminology varies and functionality is limited.
 
-<[Git for Windows]('https://git-scm.com/download/win' "Git-for-Windows")> - The most basic GUI for git on Windows.  This installation is required for most other GUI apps, minus GitKraken.
+[Git for Windows]('<https://git-scm.com/download/win' "Git-for-Windows">) - The most basic GUI for git on Windows.  This installation is required for most other GUI apps, minus GitKraken.
 
 [git bash/cmd]('https://git-scm.com/download/win' "Git-Bash") - The most functional and most supported way to use git.  Given the option of bash or cmd, the developer has all of the functionality of the version control system.  This is included in the Git for Windows installation.
 
